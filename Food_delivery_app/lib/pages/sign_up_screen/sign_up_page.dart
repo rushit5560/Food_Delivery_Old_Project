@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:food_app/common/color_resources.dart';
 import 'package:food_app/common/images_path.dart';
+import 'package:food_app/pages/index_page/IndexPage.dart';
 
-import 'IndexPage.dart';
 
 class SignUpPage extends StatelessWidget {
 

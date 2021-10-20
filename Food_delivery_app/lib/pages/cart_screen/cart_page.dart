@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:food_app/common/custom_drawer.dart';
 import 'package:food_app/common/images_path.dart';
-
-import 'package:food_app/pages/checkout_page.dart';
 import 'package:food_app/common/color_resources.dart';
+import 'package:food_app/pages/checkout_screen/checkout_page.dart';
 
 
 class CartPage extends StatefulWidget {

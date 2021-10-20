@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:food_app/common/color_resources.dart';
 import 'package:food_app/common/images_path.dart';
-import 'package:food_app/pages/tracking_page.dart';
+import 'package:food_app/pages/tracking_page/tracking_page.dart';
 
 class OrderStatusPage extends StatelessWidget {
   const OrderStatusPage({Key? key}) : super(key: key);

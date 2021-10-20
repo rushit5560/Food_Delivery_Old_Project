@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:food_app/common/color_resources.dart';
 import 'package:food_app/common/images_path.dart';
-import 'package:food_app/pages/IndexPage.dart';
+import 'package:food_app/pages/index_page/IndexPage.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({Key? key}) : super(key: key);

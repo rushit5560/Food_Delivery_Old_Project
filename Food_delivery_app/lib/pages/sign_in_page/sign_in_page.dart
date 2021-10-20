@@ -2,9 +2,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:food_app/common/color_resources.dart';
 import 'package:food_app/common/images_path.dart';
-import 'package:food_app/pages/IndexPage.dart';
-import 'package:food_app/pages/forgot_password_page.dart';
-import 'package:food_app/pages/sign_up_page.dart';
+import 'package:food_app/pages/forgot_password_screen/forgot_password_page.dart';
+import 'package:food_app/pages/index_page/IndexPage.dart';
+import 'package:food_app/pages/sign_up_screen/sign_up_page.dart';
 
 class SignInPage extends StatelessWidget {
 

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:food_app/common/color_resources.dart';
 import 'package:food_app/common/images_path.dart';
-import 'package:food_app/pages/cart_page.dart';
+import 'package:food_app/pages/cart_screen/cart_page.dart';
 
 class ProductDetailScreen extends StatefulWidget {
 

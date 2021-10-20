@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:food_app/common/color_resources.dart';
 import 'package:food_app/common/custom_drawer.dart';
 import 'package:food_app/common/images_path.dart';
-import 'package:food_app/pages/veg_dishes_page.dart';
+import 'package:food_app/pages/veg_dishes_screen/veg_dishes_page.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import 'package:flutter_card_swipper/flutter_card_swiper.dart';
 

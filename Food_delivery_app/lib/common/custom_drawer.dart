@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:food_app/common/color_resources.dart';
 import 'package:food_app/common/images_path.dart';
-import 'package:food_app/pages/order_history_page.dart';
-import 'package:food_app/pages/profile_page.dart';
-import 'package:food_app/pages/select_city_page.dart';
-import 'package:food_app/pages/sign_in_page.dart';
+import 'package:food_app/pages/order_history_screen/order_history_page.dart';
+import 'package:food_app/pages/profile_screen/profile_page.dart';
+import 'package:food_app/pages/select_city/select_city_page.dart';
+import 'package:food_app/pages/sign_in_page/sign_in_page.dart';
 
 class CstDrawer extends StatelessWidget {
   const CstDrawer({Key? key}) : super(key: key);

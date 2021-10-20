@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:food_app/common/images_path.dart';
-
-import 'package:food_app/pages/order_status_page.dart';
 import 'package:food_app/common/color_resources.dart';
+import 'package:food_app/pages/order_status_screen/order_status_page.dart';
 
 enum DeliveryWay { Delivery, Pickup }
 enum PaymentMethod {COD, Cards, Paypal}

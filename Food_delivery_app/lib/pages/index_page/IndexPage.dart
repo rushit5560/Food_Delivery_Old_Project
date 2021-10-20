@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:food_app/common/color_resources.dart';
-import 'cart_page.dart';
-import 'chat_screen/chat_page.dart';
-import 'home_page.dart';
-import 'profile_page.dart';
-import 'search_page.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
+import 'package:food_app/pages/cart_screen/cart_page.dart';
+import 'package:food_app/pages/chat_screen/chat_page.dart';
+import 'package:food_app/pages/home_page_screen/home_page.dart';
+import 'package:food_app/pages/profile_screen/profile_page.dart';
+import 'package:food_app/pages/search_screen/search_page.dart';
 
 class IndexPage extends StatefulWidget {
 
